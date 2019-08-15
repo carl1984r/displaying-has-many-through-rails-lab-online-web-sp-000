@@ -6,7 +6,7 @@ class Appointment < ApplicationRecord
     doctor.name
   end
 
-  def patient_name 
-    patient.name 
+  def patient_name
+    patient.name
   end
 end
